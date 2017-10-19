@@ -1,1 +1,2 @@
-sudo apt-get install imagemagick php5-imagick
+sudo apt-get install imagemagick 
+sudo apt-get install php5-imagick

@@ -1,2 +1,0 @@
-imagemagick
-php5-imagick
